@@ -1,4 +1,4 @@
 Git is a ditribute version control system
 Git is free software for the world!
 Git is good!
-hello git merge
+hello git merge and type!
